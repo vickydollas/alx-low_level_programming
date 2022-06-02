@@ -1,0 +1,2 @@
+#!/bim/bash
+gcc -wall $CFILE -o c 
